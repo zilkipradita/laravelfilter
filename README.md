@@ -30,8 +30,6 @@ password : 12345678
 Go to menu Admin Panel - User to see the filter datatable
 
 and here is a preview
-
 ![Cuplikan layar 2024-07-11 015444](https://github.com/zilkipradita/laravelfilter/assets/11170489/e07c004c-dff4-460d-94fa-69952349e107)
-
 
 Thanks
